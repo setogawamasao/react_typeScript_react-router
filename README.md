@@ -6,7 +6,7 @@ npx create-react-app [プロジェクト名] --template typescript
 
 ### 使用モジュールのインストール
 
-npm install react-router-dom
+npm install react-router-dom  
 npm install @types/react-router-dom
 
 ### 依存関係が壊れるので、モジュールの再度インストールを実行
