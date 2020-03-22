@@ -11,7 +11,7 @@ npm install @types/react-router-dom
 
 ### 依存関係が壊れるので、モジュールの再度インストールを実行
 
-XXX.lock.json と node_modules を削除
+XXX.lock.json と node_modules を削除  
 npm install を再度実行
 
 ### 開始方法
