@@ -17,3 +17,7 @@ npm install を再度実行
 ### 開始方法
 
 npm start で開始
+
+### DEMO
+
+![DEMO](https://github.com/setogawamasao/react_typeScript_react-router/blob/master/readme/react-router.gif)
